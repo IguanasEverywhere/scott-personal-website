@@ -6,3 +6,7 @@ h1 {
   color: white;
   font-weight: 100;
 }
+
+.sub-message {
+  cursor: pointer;
+}
